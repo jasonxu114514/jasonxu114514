@@ -1,1 +1,2 @@
-curl ip.sb
+#!/bin/bash
+echo "Hello from script!"
