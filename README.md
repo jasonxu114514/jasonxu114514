@@ -11,5 +11,5 @@ Discord: @winter_xu
 
 E-mail: jasonxu114514@163.com
 E-mail: admin@jasonxu.xyz
-
+[![JasonXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonxu114514)](https://github.com/anuraghazra/github-readme-stats)
 ![image](https://www.loliapi.com/acg/)
