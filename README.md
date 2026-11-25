@@ -9,7 +9,7 @@ Discord: @winter_xu
 
 [My Web Site](https://www.jasonxu.xyz/) 
 
-E-mail: admin@jasonxu.xyz
+E-mail: admin[at]jasonxu.xyz
 
 [![JasonXu's GitHub stats](https://github-stats-extended.vercel.app/api?username=jasonxu114514)](https://github.com/stats-organization/github-stats-extended)
 ![image](https://www.loliapi.com/acg/)
